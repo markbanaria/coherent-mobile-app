@@ -134,6 +134,10 @@
   "purchase_payment_succesful": "Payment Succesful!",
   "purchase_policy_number": "Policy Number",
   "purchase_view_my_policy": "View my Policy",
+  "purchase_recommended_for_you": "Recommended for You",
+  "purchase_reco_ci": "Critical Illness",
+  "purchase_reco_woman": "Well Woman",
+  "purchase_reco_income": "Income Protection",
 
   "policy_sign_in_with_coherent_id": "Sign In with Coherent ID",
   "policy_sign_in_with_policy_number":"Sign In with Policy Number",
