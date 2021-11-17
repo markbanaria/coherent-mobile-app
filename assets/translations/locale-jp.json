@@ -259,6 +259,8 @@
 
   "claim_your_claim_has_been_submitted": "あなたの請求は処理されています",
   "claim_reference_number": "請求お問い合わせ番号:",
-  "claim_back_to_my_account": "別の請求をする"
+  "claim_back_to_my_account": "別の請求をする",
+
+  "redeem_proceed": "TODO"
 
 }
