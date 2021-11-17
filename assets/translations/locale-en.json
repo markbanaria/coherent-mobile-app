@@ -131,6 +131,10 @@
   "purchase_cvv": "CVV",
   "purchase_complete_payment_with_credit_card": "Complete Payment with Credit Card",
 
+  "purchase_schedule": "How would you like to pay?",
+  "purchase_monthly": "Monthly",
+  "purchase_yearly": "Yearly",
+
   "purchase_payment_succesful": "Payment Succesful!",
   "purchase_policy_number": "Policy Number",
   "purchase_view_my_policy": "View my Policy",
