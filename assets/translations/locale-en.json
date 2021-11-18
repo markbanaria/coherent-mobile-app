@@ -264,5 +264,6 @@
   "claim_reference_number": "Claim Reference Number:",
   "claim_back_to_my_account": "Back to My Account",
 
-  "redeem_proceed": "Redeem PA Insurance"
+  "redeem_proceed": "Redeem PA Insurance",
+  "purchase_redemption_succesful": "Redemption Successful"
 }
