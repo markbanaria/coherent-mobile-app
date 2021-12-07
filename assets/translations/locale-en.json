@@ -1,7 +1,7 @@
 {
   "language": "english",
 
-  "purchase_personal_accident_insurance": "Personal Accident Insurance",
+  "purchase_personal_accident_insurance": "Bicycle Insurance",
   "purchase_straight_through_purchase": "Straight Through Purchase!",
   "purchase_get_a_quote": "Get a Quote",
   "purchase_customer_sign_in": "Customer Sign In",
@@ -11,7 +11,7 @@
   "purchase_make_a_claim": "Make a Claim",
 
   "purchase_check_the_following": "Please Check the Following",
-  "purchase_personal_accident_reminder": "“Personal Accident” is a product that covers death due to a traffic accident, disability, compensation for hospitals and compensation for damages in daily life. We do not support long-term care compensation. In addition, it is not a savings / accumulation type product. Please be sure to check the precautions such as the flow of the procedure",
+  "purchase_personal_accident_reminder": "“Bicycle” is a product that covers death due to a traffic accident, disability, compensation for hospitals and compensation for damages in daily life. We do not support long-term care compensation. In addition, it is not a savings / accumulation type product. Please be sure to check the precautions such as the flow of the procedure",
   "purchase_check_the_following_again": "Please check the following",
   "purchase_checked": "Checked",
   "purchase_select_insurance_start_date": "Please select an insurance start date",
@@ -19,7 +19,7 @@
   "purchase_insurance_start_date_text": "You can specify from today (*) to 30 days later. (*) If the application time is after 11:00 pm, it will 30 days from the after the application date",
   "purchase_continue": "Continue",
 
-  "purchase_personal_accident": "Personal Accident",
+  "purchase_personal_accident": "Bicycle",
   "purchase_select_range_eligible_for_compensation": "Please select the range of people who are eligible for compensation:",
   "purchase_scope_of_coverage_text": "No matter which of the plans you choose, the scope of coverage for each liability is as shown on the right",
   "purchase_insured_individual": "Insured Individual (him/herself)",
@@ -121,7 +121,7 @@
 
   "purchase_insurance_premiums_can_only": "Insurance premiums can only be paid once by credit card.",
   "purchase_this_contract_is_accompanied": "This contract is accompanied by a special contract regarding the automatic renewal of insurance contracts.",
-  "purchase_personal_accident_is_a_product": "\"Personal Accident\" is a product that covers death due to a traffic accident, disability, hospitalization, and liability for injury in daily life. We do not support outpatient or long-term care compensation. In addition, it is not a savings / funded product. Please be sure to check the precautions such as the procedure flow.",
+  "purchase_personal_accident_is_a_product": "\"Bicycle\" is a product that covers death due to a traffic accident, disability, hospitalization, and liability for injury in daily life. We do not support outpatient or long-term care compensation. In addition, it is not a savings / funded product. Please be sure to check the precautions such as the procedure flow.",
   "purchase_proceed_to_payment": "Proceed to Payment",
 
   "purchase_credit_card_information": "Credit Card Information",
@@ -149,7 +149,7 @@
 
   "policy_welcome_back" : "Welcome Back,",
 
-  "policy_personal_accident": "Personal Accident",
+  "policy_personal_accident": "Bicycle",
   "policy_policy_number": "Policy Number",
   "policy_personal": "Personal",
   "policy_travel": "Travel",
