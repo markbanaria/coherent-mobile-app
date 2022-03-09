@@ -247,6 +247,9 @@
   "claim_policy_holder_name": "TODO",
   "claim_insured_person_name": "TODO",
   "claim_upload_documents": "次へすすむ",
+  "claim_treatment_status_in": "入院中",
+  "claim_treatment_status_out": "通院中",
+  "claim_treatment_status_recover": "治療終了",
 
   "claim_upload_supporting_documents": "添付書類をアップロードする",
   "claim_document": "書類",

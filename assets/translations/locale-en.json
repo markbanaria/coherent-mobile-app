@@ -250,6 +250,9 @@
   "claim_policy_holder_name": "Policy Holder Name",
   "claim_insured_person_name": "Insured Person Name",
   "claim_upload_documents": "Next: Upload Documents",
+  "claim_treatment_status_in": "In_Pa",
+  "claim_treatment_status_out": "Out_Pa",
+  "claim_treatment_status_recover": "Recover",
 
   "claim_upload_supporting_documents": "Upload supporting documents",
   "claim_document": "Document",
