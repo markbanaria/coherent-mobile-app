@@ -31,6 +31,7 @@
   "purchase_married_couple_description": "Coverage for a married couple",
   "purchase_family_plan_title": "Family Plan",
   "purchase_family_plan_description": "Coverage for a family",
+  "purchase_individual": "Individual Plan",
 
   "purchase_individual_plan_limits_guarantee_of_injury_to_one_person": "A plan that limits the guarantee of injury to one person",
   "purchase_policy_owner": "Policy Owner",
@@ -45,6 +46,7 @@
   "purchase_same_person_insured": "Same person insured for the injury compensation.",
   "purchase_apply_for_individual_plan": "Apply for the Individual Plan",
 
+  "purchase_select_a_plan": "Select a Plan",
   "purchase_choose_desired_plan": "Choose your desired plan",
   "purchase_desired_plan_description": "Contract type is provided based on the customer's intention (*) that we have grasped at the time of contract. Please check carefully whether it matches your wishes (especially the amount of death / residual disability insurance, daily amount of hospitalization insurance, amount of liability insurance, insurance period, etc.). * Some estimates may be included.",
   "purchase_death_residual_disability": "Death/residual disability",
@@ -70,6 +72,8 @@
 
   "purchase_update_info" : "Update Your Information",
   "purchase_full_name": "Full Name",
+  "purchase_sign_up_name": "Yamada Taro",
+  "purchase_sign_up_address": "Yoyogi 1-1-1, Shibuya, Tokyo",
   "purchase_full_name_placeholder": "Your Full Name",
   "purchase_birth_date": "Birth Date",
   "purchase_birth_date_placeholder": "1980 / 01 / 01",

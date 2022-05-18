@@ -31,6 +31,7 @@
   "purchase_married_couple_description": "<b>ご 夫婦</b> をケガの補償の対象とするプラン",
   "purchase_family_plan_title": "ファミリープラン",
   "purchase_family_plan_description": "<b>ご 家族</b>をケガの補償の対象とするプラン",
+  "purchase_individual": "個人プラン",
 
   "purchase_individual_plan_limits_guarantee_of_injury_to_one_person": "<b>1 人の方</b> にケガの補償を限定するプラン",
   "purchase_policy_owner": "ご契約者 (お申込人)",
@@ -45,6 +46,7 @@
   "purchase_same_person_insured": "保険始期日時点で 満69才以下の方",
   "purchase_apply_for_individual_plan": "「個人プラン」を申込む",
 
+  "purchase_select_a_plan": "契約タイプ",
   "purchase_choose_desired_plan": "契約タイプをお選びください。",
   "purchase_desired_plan_description": "「契約タイプ」は、ご契約にあたり弊社で把握いたしましたお客さまのご意向に基づき（※）、ご案内しています。お客さまのご意向と合致しているか （特に、死亡・後遺障害保険金額、入院保険金日額ならびに賠償責任の保険金額や保険期間など）、よくご確認ください。※一部推定を含む場合があります。",
   "purchase_death_residual_disability": "死亡・後遺障害",
@@ -70,6 +72,8 @@
 
   "purchase_update_info" : "個人情報を入力してください",
   "purchase_full_name": "氏名",
+  "purchase_sign_up_name": "山田太郎",
+  "purchase_sign_up_address": "東京都渋谷区代々木1－1－1",
   "purchase_full_name_placeholder": "あなたの氏名",
   "purchase_birth_date": "生年月日",
   "purchase_birth_date_placeholder": "1980-10-10",
